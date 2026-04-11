@@ -1,0 +1,393 @@
+{
+  "updated_at": "2026-04-11T14:14:10-03:00",
+  "calendarios": {
+    "filyppe": [
+      {
+        "start": "07/04",
+        "end": "13/04",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "14/04",
+        "end": "27/04",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "28/04",
+        "end": "29/04",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "30/04",
+        "end": "18/05",
+        "ano": 2026,
+        "rotina": "B"
+      },
+      {
+        "start": "19/05",
+        "end": "20/05",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "21/05",
+        "end": "02/10",
+        "ano": 2026,
+        "rotina": "A"
+      },
+      {
+        "start": "03/10",
+        "end": "05/10",
+        "ano": 2026,
+        "rotina": "B"
+      },
+      {
+        "start": "06/10",
+        "end": "08/10",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "09/10",
+        "end": "26/10",
+        "ano": 2026,
+        "rotina": "B"
+      },
+      {
+        "start": "27/10",
+        "end": "28/10",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "29/10",
+        "end": "16/11",
+        "ano": 2026,
+        "rotina": "B"
+      },
+      {
+        "start": "17/11",
+        "end": "18/11",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "19/11",
+        "end": null,
+        "ano": 2026,
+        "rotina": "A"
+      }
+    ],
+    "paulo": [
+      {
+        "start": "07/04",
+        "end": "20/04",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "21/04",
+        "end": "27/04",
+        "ano": 2026,
+        "rotina": "B"
+      },
+      {
+        "start": "28/04",
+        "end": "29/04",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "30/04",
+        "end": "18/05",
+        "ano": 2026,
+        "rotina": "B"
+      },
+      {
+        "start": "19/05",
+        "end": "20/05",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "21/05",
+        "end": "02/10",
+        "ano": 2026,
+        "rotina": "A"
+      },
+      {
+        "start": "03/10",
+        "end": "05/10",
+        "ano": 2026,
+        "rotina": "B"
+      },
+      {
+        "start": "06/10",
+        "end": "08/10",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "09/10",
+        "end": "26/10",
+        "ano": 2026,
+        "rotina": "B"
+      },
+      {
+        "start": "27/10",
+        "end": "28/10",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "29/10",
+        "end": "16/11",
+        "ano": 2026,
+        "rotina": "B"
+      },
+      {
+        "start": "17/11",
+        "end": "18/11",
+        "ano": 2026,
+        "rotina": "C"
+      },
+      {
+        "start": "19/11",
+        "end": null,
+        "ano": 2026,
+        "rotina": "A"
+      }
+    ]
+  },
+  "rotinas": {
+    "A": {
+      "nome": "Rotina A — Completa",
+      "manha": [
+        {
+          "titulo": "Limpeza",
+          "fala": "Primeiro passo: limpeza. Molhe o rosto com água morna. Aplique o Principia Gel de Limpeza e faça movimentos circulares suaves por trinta a sessenta segundos.",
+          "pausa_s": 45
+        },
+        {
+          "titulo": "Enxágue",
+          "fala": "Agora enxágue bem com água fria. Seque com toalha limpa, com batidinhas leves. Sem esfregar.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Vitamina C",
+          "fala": "Segundo passo: vitamina C. Aplique três a quatro gotas do Principia Vê Cê Dez no rosto seco, espalhando por todo o rosto e pescoço. Espere absorver.",
+          "pausa_s": 40
+        },
+        {
+          "titulo": "Olheiras",
+          "fala": "Terceiro passo: olheiras. Uma a duas gotas do Principia Mix Zero Dois ao redor dos olhos, com batidinhas usando o dedo anelar.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Protetor solar",
+          "fala": "Quarto passo: protetor solar. Quantidade generosa do Principia Pê Ésse Zero Um. Espalhe por todo o rosto, pescoço e colo.",
+          "pausa_s": 20
+        },
+        {
+          "titulo": "Massagem",
+          "fala": "Quinto passo: massagem com o rolo de jade gelado. Movimentos de dentro pra fora, de baixo pra cima.",
+          "pausa_s": 30
+        },
+        {
+          "titulo": "Lábios",
+          "fala": "Por último, uma camada de Bepantol Derma nos lábios.",
+          "pausa_s": 5
+        }
+      ],
+      "noite": [
+        {
+          "titulo": "Pré-limpeza",
+          "fala": "Primeiro passo: pré-limpeza. Embeba um algodão com a Principia Água Micelar e passe por todo o rosto, com atenção na zona T.",
+          "pausa_s": 25
+        },
+        {
+          "titulo": "Limpeza profunda",
+          "fala": "Segundo passo: limpeza profunda com o Principia Gel de Limpeza. Pode usar a escova de limpeza facial pra potencializar. Movimentos circulares por trinta a sessenta segundos.",
+          "pausa_s": 45
+        },
+        {
+          "titulo": "Enxágue",
+          "fala": "Enxágue com água fria e seque com batidinhas leves.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Olheiras",
+          "fala": "Terceiro passo: Principia Mix Zero Dois ao redor dos olhos, batidinhas leves. Pode estender para o rosto todo.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Hidratação",
+          "fala": "Quarto passo: hidratação com o Principia Ácido Hialurônico. Aplique com o rosto levemente úmido, três a quatro gotas espalhadas por todo o rosto.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Drenagem",
+          "fala": "Quinto passo: drenagem com o gua sha. Movimentos firmes de dentro pra fora, de baixo pra cima. Pressão moderada na mandíbula, maçãs e têmporas.",
+          "pausa_s": 40
+        },
+        {
+          "titulo": "Lábios",
+          "fala": "Por último, camada generosa de Bepantol Derma nos lábios antes de dormir.",
+          "pausa_s": 5
+        }
+      ]
+    },
+    "B": {
+      "nome": "Rotina B — Manutenção reduzida",
+      "manha": [
+        {
+          "titulo": "Limpeza",
+          "fala": "Primeiro passo: limpeza. Molhe o rosto com água morna. Aplique o Principia Gel de Limpeza e faça movimentos circulares suaves por trinta a sessenta segundos.",
+          "pausa_s": 45
+        },
+        {
+          "titulo": "Enxágue",
+          "fala": "Agora enxágue bem com água fria. Seque com toalha limpa, com batidinhas leves. Sem esfregar.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Vitamina C",
+          "fala": "Segundo passo: vitamina C. Aplique três a quatro gotas do Principia Vê Cê Dez no rosto seco, espalhando por todo o rosto e pescoço. Espere absorver.",
+          "pausa_s": 40
+        },
+        {
+          "titulo": "Olheiras",
+          "fala": "Terceiro passo: olheiras. Uma a duas gotas do Principia Mix Zero Dois ao redor dos olhos, com batidinhas usando o dedo anelar.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Protetor solar",
+          "fala": "Quarto passo: protetor solar. Quantidade generosa do Principia Pê Ésse Zero Um. Espalhe por todo o rosto, pescoço e colo.",
+          "pausa_s": 20
+        },
+        {
+          "titulo": "Massagem",
+          "fala": "Quinto passo: massagem com o rolo de jade gelado. Movimentos de dentro pra fora, de baixo pra cima.",
+          "pausa_s": 30
+        },
+        {
+          "titulo": "Lábios",
+          "fala": "Por último, uma camada de Bepantol Derma nos lábios.",
+          "pausa_s": 5
+        }
+      ],
+      "noite": [
+        {
+          "titulo": "Pré-limpeza",
+          "fala": "Primeiro passo: pré-limpeza. Embeba um algodão com a Principia Água Micelar e passe por todo o rosto, com atenção na zona T.",
+          "pausa_s": 25
+        },
+        {
+          "titulo": "Limpeza profunda",
+          "fala": "Segundo passo: limpeza profunda com o Principia Gel de Limpeza. Pode usar a escova de limpeza facial pra potencializar. Movimentos circulares por trinta a sessenta segundos.",
+          "pausa_s": 45
+        },
+        {
+          "titulo": "Enxágue",
+          "fala": "Enxágue com água fria e seque com batidinhas leves.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Olheiras",
+          "fala": "Terceiro passo: Principia Mix Zero Dois ao redor dos olhos, batidinhas leves. Pode estender para o rosto todo.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Hidratação",
+          "fala": "Quarto passo: hidratação com o Principia Ácido Hialurônico. Aplique com o rosto levemente úmido, três a quatro gotas espalhadas por todo o rosto.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Drenagem",
+          "fala": "Quinto passo: drenagem com o gua sha. Movimentos firmes de dentro pra fora, de baixo pra cima. Pressão moderada na mandíbula, maçãs e têmporas.",
+          "pausa_s": 40
+        },
+        {
+          "titulo": "Lábios",
+          "fala": "Por último, camada generosa de Bepantol Derma nos lábios antes de dormir.",
+          "pausa_s": 5
+        }
+      ]
+    },
+    "C": {
+      "nome": "Rotina C — Recuperação reduzida",
+      "manha": [
+        {
+          "titulo": "Limpeza",
+          "fala": "Primeiro passo: limpeza. Molhe o rosto com água morna. Aplique o Principia Gel de Limpeza e faça movimentos circulares suaves por trinta a sessenta segundos.",
+          "pausa_s": 45
+        },
+        {
+          "titulo": "Enxágue",
+          "fala": "Agora enxágue bem com água fria. Seque com toalha limpa, com batidinhas leves. Sem esfregar.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Vitamina C",
+          "fala": "Segundo passo: vitamina C. Aplique três a quatro gotas do Principia Vê Cê Dez no rosto seco, espalhando por todo o rosto e pescoço. Espere absorver.",
+          "pausa_s": 40
+        },
+        {
+          "titulo": "Olheiras",
+          "fala": "Terceiro passo: olheiras. Uma a duas gotas do Principia Mix Zero Dois ao redor dos olhos, com batidinhas usando o dedo anelar.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Protetor solar",
+          "fala": "Quarto passo: protetor solar. Quantidade generosa do Principia Pê Ésse Zero Um. Espalhe por todo o rosto, pescoço e colo.",
+          "pausa_s": 20
+        },
+        {
+          "titulo": "Massagem",
+          "fala": "Quinto passo: massagem com o rolo de jade gelado. Movimentos de dentro pra fora, de baixo pra cima.",
+          "pausa_s": 30
+        },
+        {
+          "titulo": "Lábios",
+          "fala": "Por último, uma camada de Bepantol Derma nos lábios.",
+          "pausa_s": 5
+        }
+      ],
+      "noite": [
+        {
+          "titulo": "Pré-limpeza gentil",
+          "fala": "Primeiro passo: pré-limpeza gentil. Embeba um algodão com a Principia Água Micelar e passe suavemente pelo rosto. Sem esfregar. A pele está em recuperação, ela precisa de carinho.",
+          "pausa_s": 25
+        },
+        {
+          "titulo": "Limpeza suave",
+          "fala": "Segundo passo: limpeza suave com o Principia Gel de Limpeza. Movimentos circulares bem delicados. Sem escova, sem pressão. Enxágue com água morna — nem quente, nem gelada.",
+          "pausa_s": 40
+        },
+        {
+          "titulo": "Secagem",
+          "fala": "Seque com batidinhas muito leves.",
+          "pausa_s": 10
+        },
+        {
+          "titulo": "Olheiras",
+          "fala": "Terceiro passo: Principia Mix Zero Dois ao redor dos olhos, batidinhas gentis.",
+          "pausa_s": 15
+        },
+        {
+          "titulo": "Hidratação",
+          "fala": "Quarto passo: hidratação com o Principia Ácido Hialurônico. Aplique com a pele levemente úmida. Três a quatro gotas espalhadas por todo o rosto. Acalma e sela a hidratação.",
+          "pausa_s": 20
+        },
+        {
+          "titulo": "Lábios",
+          "fala": "Por último, camada generosa de Bepantol Derma nos lábios.",
+          "pausa_s": 5
+        }
+      ]
+    }
+  }
+}
