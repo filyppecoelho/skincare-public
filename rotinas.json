@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T14:41:19-03:00",
+  "updated_at": "2026-04-11T15:05:27-03:00",
   "calendarios": {
     "filyppe": [
       {
@@ -321,13 +321,13 @@
       "nome": "Rotina C — Recuperação reduzida",
       "manha": [
         {
-          "titulo": "Limpeza",
-          "fala": "Primeiro passo: limpeza. Molhe o rosto com água morna. Aplique o Principia Gel de Limpeza e faça movimentos circulares suaves por trinta a sessenta segundos.",
+          "titulo": "Limpeza suave",
+          "fala": "Primeiro passo: limpeza suave. Molhe o rosto com água morna. Movimentos circulares bem delicados com o Principia Gel de Limpeza por trinta segundos. Sem escova, sem pressão.",
           "pausa_s": 20
         },
         {
           "titulo": "Enxágue",
-          "fala": "Agora enxágue bem com água fria. Seque com batidinhas leves.",
+          "fala": "Enxágue com água morna, nem quente, nem gelada. Seque com batidinhas muito leves.",
           "pausa_s": 8
         },
         {
@@ -337,18 +337,13 @@
         },
         {
           "titulo": "Olheiras",
-          "fala": "Terceiro passo: olheiras. Uma gota do Principia Mix Zero Dois ao redor dos olhos, com batidinhas usando o dedo anelar.",
+          "fala": "Terceiro passo: olheiras. Uma gota do Principia Mix Zero Dois ao redor dos olhos, com batidinhas bem gentis.",
           "pausa_s": 8
         },
         {
           "titulo": "Protetor solar",
-          "fala": "Quarto passo: protetor solar. Quantidade generosa do Principia Pê Ésse Zero Um. Rosto, pescoço e colo.",
-          "pausa_s": 10
-        },
-        {
-          "titulo": "Massagem",
-          "fala": "Quinto passo: massagem com o rolo de jade gelado. Movimentos de dentro pra fora, de baixo pra cima.",
-          "pausa_s": 15
+          "fala": "Quarto passo: protetor solar. Quantidade generosa do Principia Pê Ésse Zero Um. Rosto, pescoço e colo. Pele fragilizada precisa de proteção extra.",
+          "pausa_s": 12
         },
         {
           "titulo": "Lábios",
